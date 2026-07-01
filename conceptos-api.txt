@@ -1,0 +1,5 @@
+1. ¿Qué hace esta ruta?
+Esta ruta de tipo POST recibe datos o mensajes enviados por un usuario, los procesa en el servidor y devuelve una respuesta en formato JSON confirmando que el reporte fue recibido correctamente.
+
+2. ¿Para qué sirve en una aplicación comunitaria?
+Sirve como un canal para que los ciudadanos o miembros de la comunidad puedan enviar reportes, quejas, alertas de seguridad o sugerencias directamente al sistema de forma digital.

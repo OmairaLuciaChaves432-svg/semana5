@@ -1,0 +1,1 @@
+La ruta principal '/' muestra un mensaje que dice que el servidor funciona correctamente
